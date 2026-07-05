@@ -1,0 +1,43 @@
+# ==========================================
+# C++ and CMake Build Artifacts
+# ==========================================
+# Ignore the build directory at the root and inside any subfolders (like v0.0.0/build)
+build/
+**/build/
+/v0.0.0-static-circle/build/
+
+# Ignore compiled executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.obj
+*.o
+*.pdb
+
+# ==========================================
+# Visual Studio / MSVC Temporary Files
+# ==========================================
+.vs/
+out/
+CMakeSettings.json
+CMakeUserPresets.json
+x64/
+Debug/
+Release/
+
+# ==========================================
+# VS Code Environment Settings
+# ==========================================
+# Ignore local workspace settings, but keep the folder if needed
+.vscode/cookies
+.vscode/ipch/
+.vscode/cmake-variants.json
+
+# ==========================================
+# OS Specific Files
+# ==========================================
+Thumbs.db
+.DS_Store
