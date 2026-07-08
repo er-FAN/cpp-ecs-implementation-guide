@@ -1,5 +1,6 @@
-<div dir="ltr">
 Persian Version: For the Persian documentation, please refer to [README.fa.md](README.fa.md).
+
+<div dir="ltr">
 
 ## Conceptual Prerequisites
 
