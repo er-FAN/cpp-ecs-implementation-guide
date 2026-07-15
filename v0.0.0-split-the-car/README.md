@@ -104,6 +104,6 @@ On Windows PowerShell:
 .\splited_cars.exe
 ```
 
-## Exercise - After Reading and Running the Examples
-
+## Exercises
+## Exercise EX-0001 :
 Assume that Erfan's car can fly, while Ali's car cannot. Add a new attribute representing flying speed that belongs only to Erfan's car. Implement this change in both `cars.cpp` and `splited-cars.cpp`, and print the information of both cars.
